@@ -9,6 +9,7 @@ fn main() {
         println!("5보다 작거나 같음");
         print!("{}는 5보다 작거나 같음", number);
     }
+    sldksadf
 }
     
     
